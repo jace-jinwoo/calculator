@@ -5,6 +5,9 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "계산기 모음 | 실업급여 · 연차수당 · 퇴직금 · D-Day",
   description: "실업급여, 연차수당, 퇴직금, 주휴수당, 만 나이, D-Day, 전역일, 환율, 단위 변환 등 생활에 필요한 계산기를 한 곳에서 이용하세요.",
+  verification: {
+    google: '1bHbH5-Aa-wk74CWkqUWQGRmZ6KMkvRetikjf8rLAnQ',    
+  },
   other: {
     'google-adsense-account' : 'ca-pub-4185652173034768'
   }
